@@ -33,7 +33,7 @@ class TestOne(BaseClass):
         cfp = cop.getcheckoutbutton1()
         log.info("Entering country name as ind")
         cfp.gettextboxfield().send_keys("ind")
-        self.verifylinkpresence("India") # explicit wait just call the method
+        self.gitdemoverifylinkpresence("India") # explicit wait just call the method
         cfp.getlinktextvalue().click()
         cfp.getcheckboxbutton().click()
         print(cfp.getcheckboxbutton().is_displayed())

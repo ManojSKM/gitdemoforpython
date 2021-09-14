@@ -23,7 +23,7 @@ class BaseClass:
         logger.setLevel(logging.DEBUG)
         return logger
 
-    def verifylinkpresence(self, text):
+    def gitdemoverifylinkpresence(self, text):
         Wait = WebDriverWait(self.driver, 8)
         Wait.until(expected_conditions.presence_of_element_located((By.LINK_TEXT, text)))
 
