@@ -1,0 +1,396 @@
+2021-09-13 16:53:42,145 :INFO : test_e2e :Getting all the product names
+2021-09-13 16:53:42,185 :INFO : test_e2e :iphone X
+2021-09-13 16:53:42,202 :INFO : test_e2e :Samsung Note 8
+2021-09-13 16:53:42,221 :INFO : test_e2e :Nokia Edge
+2021-09-13 16:53:42,346 :INFO : test_e2e :Blackberry
+2021-09-13 16:53:42,632 :INFO : test_e2e :Entering country name as ind
+2021-09-13 16:53:48,488 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 17:51:31,673 :INFO : test_e2e :Getting all the product names
+2021-09-13 17:51:31,714 :INFO : test_e2e :iphone X
+2021-09-13 17:51:31,729 :INFO : test_e2e :Samsung Note 8
+2021-09-13 17:51:31,748 :INFO : test_e2e :Nokia Edge
+2021-09-13 17:51:31,850 :INFO : test_e2e :Blackberry
+2021-09-13 17:51:32,144 :INFO : test_e2e :Entering country name as ind
+2021-09-13 17:51:37,898 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 17:51:47,128 :INFO : test_formsubmission :First name is : Manoj
+2021-09-13 17:51:47,273 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-13 17:51:47,425 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 17:51:47,634 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 17:51:48,244 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 17:51:48,244 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 17:51:48,365 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 17:51:48,365 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 17:51:48,509 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 17:51:48,509 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 17:51:48,701 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 17:51:48,701 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 17:51:49,240 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 17:51:49,240 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 17:51:49,240 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 17:51:49,368 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 17:51:49,368 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 17:51:49,368 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 17:51:49,517 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 17:51:49,517 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 17:51:49,517 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 17:51:49,702 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 17:51:49,702 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 17:51:49,702 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:00:34,039 :INFO : test_e2e :Getting all the product names
+2021-09-13 18:00:34,074 :INFO : test_e2e :iphone X
+2021-09-13 18:00:34,091 :INFO : test_e2e :Samsung Note 8
+2021-09-13 18:00:34,107 :INFO : test_e2e :Nokia Edge
+2021-09-13 18:00:34,226 :INFO : test_e2e :Blackberry
+2021-09-13 18:00:34,514 :INFO : test_e2e :Entering country name as ind
+2021-09-13 18:00:40,249 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 18:00:49,985 :INFO : test_formsubmission :First name is : Manoj
+2021-09-13 18:00:50,123 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-13 18:00:50,281 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:00:50,485 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:00:51,062 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 18:00:51,062 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 18:00:51,175 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 18:00:51,175 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 18:00:51,312 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:00:51,312 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:00:51,495 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 18:00:51,495 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 18:00:51,782 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:00:51,782 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:00:51,782 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:00:52,087 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:00:52,087 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:00:52,087 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:00:52,227 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:00:52,227 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:00:52,227 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:00:52,410 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:00:52,410 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:00:52,410 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:09:01,479 :INFO : test_e2e :Getting all the product names
+2021-09-13 18:09:01,521 :INFO : test_e2e :iphone X
+2021-09-13 18:09:01,538 :INFO : test_e2e :Samsung Note 8
+2021-09-13 18:09:01,559 :INFO : test_e2e :Nokia Edge
+2021-09-13 18:09:01,668 :INFO : test_e2e :Blackberry
+2021-09-13 18:09:01,954 :INFO : test_e2e :Entering country name as ind
+2021-09-13 18:09:07,716 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 18:09:17,407 :INFO : test_formsubmission :First name is : Manoj
+2021-09-13 18:09:17,558 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-13 18:09:17,707 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:09:17,916 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:09:18,504 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 18:09:18,504 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 18:09:18,627 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 18:09:18,627 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 18:09:18,766 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:09:18,766 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:09:18,955 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 18:09:18,955 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 18:09:19,447 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:09:19,447 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:09:19,447 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:09:19,582 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:09:19,582 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:09:19,582 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:09:19,737 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:09:19,737 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:09:19,737 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:09:19,923 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:09:19,923 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:09:19,923 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:18:25,219 :INFO : test_e2e :Getting all the product names
+2021-09-13 18:18:25,257 :INFO : test_e2e :iphone X
+2021-09-13 18:18:25,276 :INFO : test_e2e :Samsung Note 8
+2021-09-13 18:18:25,295 :INFO : test_e2e :Nokia Edge
+2021-09-13 18:18:25,396 :INFO : test_e2e :Blackberry
+2021-09-13 18:18:25,685 :INFO : test_e2e :Entering country name as ind
+2021-09-13 18:18:31,461 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 18:18:40,910 :INFO : test_formsubmission :First name is : Manoj
+2021-09-13 18:18:41,047 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-13 18:18:41,197 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:18:41,410 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:18:41,954 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 18:18:41,954 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 18:18:42,069 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 18:18:42,069 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 18:18:42,204 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:18:42,204 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:18:42,388 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 18:18:42,388 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 18:18:42,870 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:18:42,870 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:18:42,870 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:18:42,997 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:18:42,997 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:18:42,997 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:18:43,152 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:18:43,152 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:18:43,152 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:18:43,333 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:18:43,333 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:18:43,333 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:30:51,680 :INFO : test_e2e :Getting all the product names
+2021-09-13 18:30:51,722 :INFO : test_e2e :iphone X
+2021-09-13 18:30:51,740 :INFO : test_e2e :Samsung Note 8
+2021-09-13 18:30:51,757 :INFO : test_e2e :Nokia Edge
+2021-09-13 18:30:51,875 :INFO : test_e2e :Blackberry
+2021-09-13 18:30:52,159 :INFO : test_e2e :Entering country name as ind
+2021-09-13 18:30:57,905 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 18:31:07,450 :INFO : test_formsubmission :First name is : Manoj
+2021-09-13 18:31:07,594 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-13 18:31:07,740 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:31:07,942 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:31:08,514 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 18:31:08,514 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 18:31:08,629 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 18:31:08,629 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 18:31:08,771 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:31:08,771 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:31:08,955 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 18:31:08,955 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 18:31:09,472 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:31:09,472 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:31:09,472 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 18:31:09,624 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:31:09,624 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:31:09,624 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 18:31:09,778 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:31:09,778 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:31:09,778 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 18:31:09,960 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:31:09,960 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 18:31:09,960 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 19:57:40,377 :INFO : test_e2e :Getting all the product names
+2021-09-13 19:57:40,494 :INFO : test_e2e :iphone X
+2021-09-13 19:57:40,517 :INFO : test_e2e :Samsung Note 8
+2021-09-13 19:57:40,543 :INFO : test_e2e :Nokia Edge
+2021-09-13 19:57:40,751 :INFO : test_e2e :Blackberry
+2021-09-13 19:57:41,243 :INFO : test_e2e :Entering country name as ind
+2021-09-13 19:57:47,279 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 19:58:00,480 :INFO : test_formsubmission :First name is : Manoj
+2021-09-13 19:58:00,640 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-13 19:58:00,776 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 19:58:01,014 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 19:58:01,671 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 19:58:01,671 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 19:58:01,802 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 19:58:01,802 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 19:58:01,956 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 19:58:01,956 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 19:58:02,209 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 19:58:02,209 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 19:58:02,927 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 19:58:02,927 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 19:58:02,927 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 19:58:03,108 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 19:58:03,108 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 19:58:03,108 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 19:58:03,359 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 19:58:03,359 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 19:58:03,359 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 19:58:03,582 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 19:58:03,582 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 19:58:03,582 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 21:26:18,535 :INFO : test_e2e :Getting all the product names
+2021-09-13 21:26:18,768 :INFO : test_e2e :iphone X
+2021-09-13 21:26:18,794 :INFO : test_e2e :Samsung Note 8
+2021-09-13 21:26:18,818 :INFO : test_e2e :Nokia Edge
+2021-09-13 21:26:18,975 :INFO : test_e2e :Blackberry
+2021-09-13 21:26:19,379 :INFO : test_e2e :Entering country name as ind
+2021-09-13 21:26:25,314 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 21:26:39,190 :INFO : test_formsubmission :First name is : Manoj
+2021-09-13 21:26:39,351 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-13 21:26:39,512 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:26:39,796 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 21:26:40,489 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 21:26:40,489 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 21:26:40,646 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 21:26:40,646 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 21:26:40,813 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:26:40,813 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:26:41,079 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 21:26:41,079 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 21:26:41,707 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 21:26:41,707 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 21:26:41,707 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 21:26:41,883 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 21:26:41,883 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 21:26:41,883 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 21:26:42,090 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:26:42,090 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:26:42,090 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:26:42,357 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 21:26:42,357 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 21:26:42,357 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 21:38:01,469 :INFO : test_e2e :Getting all the product names
+2021-09-13 21:38:01,525 :INFO : test_e2e :iphone X
+2021-09-13 21:38:01,548 :INFO : test_e2e :Samsung Note 8
+2021-09-13 21:38:01,572 :INFO : test_e2e :Nokia Edge
+2021-09-13 21:38:01,708 :INFO : test_e2e :Blackberry
+2021-09-13 21:38:02,097 :INFO : test_e2e :Entering country name as ind
+2021-09-13 21:38:08,175 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 21:38:20,067 :INFO : test_formsubmission :First name is : Manoj
+2021-09-13 21:38:20,337 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-13 21:38:20,488 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:38:20,823 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 21:38:21,665 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 21:38:21,665 :INFO : test_formsubmission :First name is : Prabala
+2021-09-13 21:38:21,812 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 21:38:21,812 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-13 21:38:21,993 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:38:21,993 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:38:22,248 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 21:38:22,248 :INFO : test_formsubmission :Gender is :  Female
+2021-09-13 21:38:22,974 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 21:38:22,974 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 21:38:22,974 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-13 21:38:23,143 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 21:38:23,143 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 21:38:23,143 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-13 21:38:23,338 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:38:23,338 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:38:23,338 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-13 21:38:23,594 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 21:38:23,594 :INFO : test_formsubmission :Gender is :  Male
+2021-09-13 21:38:23,594 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:44:33,616 :INFO : test_e2e :Getting all the product names
+2021-09-14 00:44:33,802 :INFO : test_e2e :iphone X
+2021-09-14 00:44:33,825 :INFO : test_e2e :Samsung Note 8
+2021-09-14 00:44:33,846 :INFO : test_e2e :Nokia Edge
+2021-09-14 00:44:34,016 :INFO : test_e2e :Blackberry
+2021-09-14 00:44:34,463 :INFO : test_e2e :Entering country name as ind
+2021-09-14 00:44:41,083 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 00:44:53,085 :INFO : test_formsubmission :First name is : Manoj
+2021-09-14 00:44:53,235 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-14 00:44:53,366 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:44:53,601 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:44:54,262 :INFO : test_formsubmission :First name is : Prabala
+2021-09-14 00:44:54,262 :INFO : test_formsubmission :First name is : Prabala
+2021-09-14 00:44:54,383 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 00:44:54,383 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 00:44:54,512 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:44:54,512 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:44:54,714 :INFO : test_formsubmission :Gender is :  Female
+2021-09-14 00:44:54,714 :INFO : test_formsubmission :Gender is :  Female
+2021-09-14 00:44:55,307 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:44:55,307 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:44:55,307 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:44:55,439 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:44:55,439 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:44:55,439 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:44:55,589 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:44:55,589 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:44:55,589 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:44:55,789 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:44:55,789 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:44:55,789 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:46:24,840 :INFO : test_e2e :Getting all the product names
+2021-09-14 00:46:24,951 :INFO : test_e2e :iphone X
+2021-09-14 00:46:24,961 :INFO : test_e2e :Samsung Note 8
+2021-09-14 00:46:24,971 :INFO : test_e2e :Nokia Edge
+2021-09-14 00:46:25,250 :INFO : test_e2e :Blackberry
+2021-09-14 00:46:26,364 :INFO : test_e2e :Entering country name as ind
+2021-09-14 00:46:32,838 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 00:47:17,612 :INFO : test_formsubmission :First name is : Manoj
+2021-09-14 00:47:17,697 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-14 00:47:17,792 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:47:18,119 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:47:19,960 :INFO : test_formsubmission :First name is : Prabala
+2021-09-14 00:47:19,960 :INFO : test_formsubmission :First name is : Prabala
+2021-09-14 00:47:20,016 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 00:47:20,016 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 00:47:20,105 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:47:20,105 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:47:20,422 :INFO : test_formsubmission :Gender is :  Female
+2021-09-14 00:47:20,422 :INFO : test_formsubmission :Gender is :  Female
+2021-09-14 00:47:22,329 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:47:22,329 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:47:22,329 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:47:22,398 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:47:22,398 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:47:22,398 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:47:22,483 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:47:22,483 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:47:22,483 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:47:22,768 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:47:22,768 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:47:22,768 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:48:09,436 :INFO : test_e2e :Getting all the product names
+2021-09-14 00:48:09,530 :INFO : test_e2e :iphone X
+2021-09-14 00:48:09,554 :INFO : test_e2e :Samsung Note 8
+2021-09-14 00:48:09,574 :INFO : test_e2e :Nokia Edge
+2021-09-14 00:48:09,706 :INFO : test_e2e :Blackberry
+2021-09-14 00:48:10,032 :INFO : test_e2e :Entering country name as ind
+2021-09-14 00:48:15,978 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 00:48:30,199 :INFO : test_formsubmission :First name is : Manoj
+2021-09-14 00:48:30,322 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-14 00:48:30,464 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:48:30,689 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:48:31,382 :INFO : test_formsubmission :First name is : Prabala
+2021-09-14 00:48:31,382 :INFO : test_formsubmission :First name is : Prabala
+2021-09-14 00:48:31,497 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 00:48:31,497 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 00:48:31,637 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:48:31,637 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:48:31,824 :INFO : test_formsubmission :Gender is :  Female
+2021-09-14 00:48:31,824 :INFO : test_formsubmission :Gender is :  Female
+2021-09-14 00:48:32,390 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:48:32,390 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:48:32,390 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 00:48:32,522 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:48:32,522 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:48:32,522 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 00:48:32,669 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:48:32,669 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:48:32,669 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 00:48:32,859 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:48:32,859 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 00:48:32,859 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 01:04:25,480 :INFO : test_e2e :Getting all the product names
+2021-09-14 01:04:25,522 :INFO : test_e2e :iphone X
+2021-09-14 01:04:25,539 :INFO : test_e2e :Samsung Note 8
+2021-09-14 01:04:25,556 :INFO : test_e2e :Nokia Edge
+2021-09-14 01:04:25,670 :INFO : test_e2e :Blackberry
+2021-09-14 01:04:25,972 :INFO : test_e2e :Entering country name as ind
+2021-09-14 01:04:31,709 :INFO : test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-14 01:04:42,227 :INFO : test_formsubmission :First name is : Manoj
+2021-09-14 01:04:42,361 :INFO : test_formsubmission :Email is : srimanojskm@gmail.com
+2021-09-14 01:04:42,494 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 01:04:42,698 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 01:04:43,331 :INFO : test_formsubmission :First name is : Prabala
+2021-09-14 01:04:43,331 :INFO : test_formsubmission :First name is : Prabala
+2021-09-14 01:04:43,447 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 01:04:43,447 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 01:04:43,575 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 01:04:43,575 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 01:04:43,760 :INFO : test_formsubmission :Gender is :  Female
+2021-09-14 01:04:43,760 :INFO : test_formsubmission :Gender is :  Female
+2021-09-14 01:04:44,339 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 01:04:44,339 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 01:04:44,339 :INFO : test_formsubmission :First name is : Krishnamoorthy
+2021-09-14 01:04:44,471 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 01:04:44,471 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 01:04:44,471 :INFO : test_formsubmission :Email is : krishnamoorthy@gmail.com
+2021-09-14 01:04:44,605 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 01:04:44,605 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 01:04:44,605 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 01:04:44,793 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 01:04:44,793 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 01:04:44,793 :INFO : test_formsubmission :Gender is :  Male
+2021-09-14 13:26:47,711 :INFO : test_formsubmission :First name is : Prabala S K
+2021-09-14 13:26:47,901 :INFO : test_formsubmission :Email is : prabaskmano@gmail.com
+2021-09-14 13:26:48,058 :INFO : test_formsubmission :PWD is : samsungj7max12!@
+2021-09-14 13:26:48,277 :INFO : test_formsubmission :Gender is :  Female

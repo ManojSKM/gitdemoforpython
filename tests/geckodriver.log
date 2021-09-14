@@ -1,0 +1,31 @@
+1631560524657	geckodriver	INFO	Listening on 127.0.0.1:52365
+1631560527728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANOJS~1\\AppData\\Local\\Temp\\rust_mozprofilexSX8hQ"
+1631560538471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Manoj S K\\AppData\\Local\\Temp\\rust_mozprofilexSX8hQ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Parent 13196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631560570685	Marionette	INFO	Listening on port 56667
+1631560571274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1631560592843	Marionette	INFO	Stopped listening on port 56667
+[Parent 13196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631560595552	geckodriver	INFO	Listening on 127.0.0.1:55056
+1631560598620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANOJS~1\\AppData\\Local\\Temp\\rust_mozprofilev6NZLt"
+1631560600635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Manoj S K\\AppData\\Local\\Temp\\rust_mozprofilev6NZLt\\search.json.mozlz4", (void 0)))
+1631560606897	Marionette	INFO	Listening on port 55064
+1631560607820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631560616946	Marionette	INFO	Stopped listening on port 55064
+1631560618665	geckodriver	INFO	Listening on 127.0.0.1:62215
+1631560621739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANOJS~1\\AppData\\Local\\Temp\\rust_mozprofilelfffx6"
+1631560624297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Manoj S K\\AppData\\Local\\Temp\\rust_mozprofilelfffx6\\search.json.mozlz4", (void 0)))
+1631560633655	Marionette	INFO	Listening on port 62223
+1631560635203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631560644875	Marionette	INFO	Stopped listening on port 62223
